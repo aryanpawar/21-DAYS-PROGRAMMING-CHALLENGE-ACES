@@ -1,0 +1,13 @@
+ACES 21 Days Challenge
+
+I am learning kotlin since last 11 Days.
+I learned some basics in Kotlin.
+
+I made two apps.
+First one is Birthday Wish app & Second one is Dice Rolling app.
+
+Today I revised some concepts in Kotlin which might be required in future.
+
+That's all for TODAY !
+
+#21dayschallenge
